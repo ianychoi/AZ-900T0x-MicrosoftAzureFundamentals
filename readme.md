@@ -1,4 +1,4 @@
-# AZ-900T00 and AZ-900T01: Microsoft Azure Fundamentals
+# AZ-900T00 and AZ-900T01: Microsoft Azure 펀다멘탈
 
 - **[Link to Walkthroughs (HTML format)](https://microsoftlearning.github.io/AZ-900T0x-MicrosoftAzureFundamentals/)**
 - **[Download Latest Walkthroughs (Word format)](../../releases/latest)**
